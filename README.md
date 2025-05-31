@@ -22,35 +22,35 @@ El sistema permite a los usuarios gestionar productos en un carrito de compras, 
 
 ## ⚙️ Funcionalidades
 ### Clase Producto
-✅ Gestión de información básica del producto (código, nombre, precio)
-✅ Validación de datos de entrada
-✅ Getters y setters con validaciones
+- ✅ Gestión de información básica del producto (código, nombre, precio)
+- ✅ Validación de datos de entrada
+- ✅ Getters y setters con validaciones
 
 ### Clase ItemCarrito
-✅ Asociación producto-cantidad
-✅ Cálculo de subtotal automático
-✅ Validaciones de cantidad mínima
+- ✅ Asociación producto-cantidad
+- ✅ Cálculo de subtotal automático
+- ✅ Validaciones de cantidad mínima
 
 ### Clase Carrito
-✅ Agregar productos (consolida cantidades si ya existe)
-✅ Eliminar productos por código
-✅ Modificar cantidades existentes
-✅ Calcular total de la compra
-✅ Búsqueda de productos
+- ✅ Agregar productos (consolida cantidades si ya existe)
+- ✅ Eliminar productos por código
+- ✅ Modificar cantidades existentes
+- ✅ Calcular total de la compra
+- ✅ Búsqueda de productos
 
 ### Interfaz de Usuario (Supermercado)
-✅ Menú interactivo por consola
-✅ Gestión completa del carrito
-✅ Productos predefinidos del supermercado
-✅ Finalización de compra
+- ✅ Menú interactivo por consola
+- ✅ Gestión completa del carrito
+- ✅ Productos predefinidos del supermercado
+- ✅ Finalización de compra
 
 
 ---
 ## Tipos de Pruebas Implementadas
-✅ Pruebas de comportamiento normal
-✅ Pruebas de casos límite
-✅ Pruebas de manejo de excepciones
-✅ Pruebas de integración básica
+- ✅ Pruebas de comportamiento normal
+- ✅ Pruebas de casos límite
+- ✅ Pruebas de manejo de excepciones
+- ✅ Pruebas de integración básica
 
 
 ---
