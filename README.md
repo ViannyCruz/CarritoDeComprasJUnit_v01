@@ -44,6 +44,8 @@ El sistema permite a los usuarios gestionar productos en un carrito de compras, 
 - ✅ Productos predefinidos del supermercado
 - ✅ Finalización de compra
 
+![image](https://github.com/user-attachments/assets/f23083b5-d1c6-45bf-94c9-b07ac6128844)
+
 
 ---
 ## Tipos de Pruebas Implementadas
