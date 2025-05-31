@@ -12,7 +12,7 @@ El sistema permite a los usuarios gestionar productos en un carrito de compras, 
 
 
 ## 🚀 Cómo Ejecutar
-- Clonar el repositorio: git clone https://github.com/ViannyCruz/JUnit_01.git
+- Clonar el repositorio: git clone https://github.com/ViannyCruz/CarritoDeComprasJUnit_v01.git
 - Ejecutar pruebas con Maven: mvn test O ejecutar directamente desde un IDE
 - Ejecutar implementacion del supermercado: ejecutar la clase main.
 
